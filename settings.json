@@ -1,0 +1,39 @@
+{
+  "workbench.colorTheme": "Learn with Sumit - Party",
+  "editor.fontSize": 19,
+  "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+  "editor.minimap.enabled": false,
+  "editor.fontLigatures": true, // Font ligatures are special visual representations of character combinations
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  // cursor
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "expand",
+  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontFamily": "\"FiraCode Nerd Font Mono\", Menlo",
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.accessibilitySupport": "off",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.stickyScroll.scrollWithEditor": false,
+  "workbench.tree.enableStickyScroll": false,
+  "editor.stickyScroll.enabled": false,
+  "editor.linkedEditing": true
+}
