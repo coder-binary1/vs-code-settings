@@ -27,6 +27,10 @@
 18. [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 19. [Docker DX] [![Docker DX](https://docker.gallerycdn.vsassets.io/extensions/docker/docker/0.18.0/1760547272864/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=docker.docker)
 
+<div style="text-align: center;">
+  [![Docker DX](https://docker.gallerycdn.vsassets.io/extensions/docker/docker/0.18.0/1760547272864/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=docker.docker)
+</div>
+
 ## Color Theme
 
 1. Andromeda -> [https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda]
