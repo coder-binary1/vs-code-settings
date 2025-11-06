@@ -1,10 +1,9 @@
 {
-  "workbench.colorTheme": "Learn with Sumit - Party",
+  "workbench.colorTheme": "Learn with Sumit Theme",
   "editor.fontSize": 19,
   "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
   "editor.minimap.enabled": false,
   "editor.fontLigatures": true, // Font ligatures are special visual representations of character combinations
-  "editor.formatOnSave": true,
   "editor.wordWrap": "on",
   // cursor
   "editor.cursorSmoothCaretAnimation": "on",
@@ -21,19 +20,34 @@
       }
     ]
   },
-  "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[jsonc]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
+  // config related to code formatting
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // config related to code formatting
   "editor.accessibilitySupport": "off",
   "liveServer.settings.donotShowInfoMsg": true,
   "editor.stickyScroll.scrollWithEditor": false,
   "workbench.tree.enableStickyScroll": false,
   "editor.stickyScroll.enabled": false,
-  "editor.linkedEditing": true
+  "editor.linkedEditing": true,
+  "chat.commandCenter.enabled": false,
+  "workbench.iconTheme": "vscode-icons",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "cSpell.userWords": [
+    "Bkash",
+    "daisyui",
+    "Mbps",
+    "Minutemailer",
+    "NAGAD",
+    "oids",
+    "snmp",
+    "Swal",
+    "upserted",
+    "varbinds"
+  ],
+  "peacock.affectActivityBar": false,
+  "peacock.affectTitleBar": false,
+  "javascript.updateImportsOnFileMove.enabled": "always"
 }
