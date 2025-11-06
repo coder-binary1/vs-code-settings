@@ -14,7 +14,7 @@
 5. Auto Rename Tag -> [https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag]
 6. Path Autocomplete -> [https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete]
 7. Live Server by Ritwick Dey -> [https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer]
-   8.Reactjs code snippets -> [![](https://img.shields.io/badge/download-1DA1F2?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
+8. [ReactJS code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
 
 ## Color Theme
 
