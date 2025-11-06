@@ -25,7 +25,7 @@
 16. [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules)
 17. [Container Tools](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers)
 18. [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
-19. [![Docker DX](https://docker.gallerycdn.vsassets.io/extensions/docker/docker/0.18.0/1760547272864/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=docker.docker)
+19. [Docker DX] [![Docker DX](https://docker.gallerycdn.vsassets.io/extensions/docker/docker/0.18.0/1760547272864/Microsoft.VisualStudio.Services.Icons.Default)](https://marketplace.visualstudio.com/items?itemName=docker.docker)
 
 ## Color Theme
 
