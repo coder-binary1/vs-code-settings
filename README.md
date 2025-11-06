@@ -15,6 +15,17 @@
 6. Path Autocomplete -> [https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete]
 7. Live Server by Ritwick Dey -> [https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer]
 8. [ReactJS code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
+9. [React Extension Pack](https://marketplace.visualstudio.com/items?itemName=jawandarajbir.react-vscode-extension-pack)
+10. [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+11. [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+12. [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+13. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+14. [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+15. [Better ReactJS Code Snippet](https://marketplace.visualstudio.com/items?itemName=Sharafdin.better-reactjs-code-snippet)
+16. [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules)
+17. [Container Tools](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers)
+18. [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+19. [https://docker.gallerycdn.vsassets.io/extensions/docker/docker/0.18.0/1760547272864/Microsoft.VisualStudio.Services.Icons.Default](https://marketplace.visualstudio.com/items?itemName=docker.docker)
 
 ## Color Theme
 
