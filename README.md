@@ -29,6 +29,12 @@
 | 18  | **Docker**                         | <a href="https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker" target="_blank" rel="noopener noreferrer"><img src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-docker/2.0.0/1748459272971/Microsoft.VisualStudio.Services.Icons.Default" width="50" ></a>                             |
 | 19  | **Docker DX**                      | <a href="https://marketplace.visualstudio.com/items?itemName=docker.docker" target="_blank" rel="noopener noreferrer"><img src="https://docker.gallerycdn.vsassets.io/extensions/docker/docker/0.18.0/1760547272864/Microsoft.VisualStudio.Services.Icons.Default" width="50" ></a>                                                               |
 
+## Extensions for NodeJS Server
+
+| No. | Extension Name | Extension Link                                                                                                                                                                                                                                                                                           |
+| --- | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Peacock**    | <a href="https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock" target="_blank" rel="noopener noreferrer"><img src="https://johnpapa.gallerycdn.vsassets.io/extensions/johnpapa/vscode-peacock/4.2.2/1663810940966/Microsoft.VisualStudio.Services.Icons.Default" width="50" ></a> |
+
 ## Color Theme
 
 1. Andromeda -> [https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda]
