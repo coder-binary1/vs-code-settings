@@ -1,3 +1,9 @@
+# Windows Terminal [link](https://windowsterminalthemes.dev/)
+
+# Nerd Fonts [link](https://www.nerdfonts.com/)
+
+# Oh My Posh [link](https://ohmyposh.dev/)
+
 # vs-code-settings
 
 1. Install all the following extensions, themes & icons.
